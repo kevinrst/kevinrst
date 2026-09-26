@@ -1,10 +1,22 @@
-### Hello there 👋
-#### Go - Rust Developer & DevOps
+### Hii 👋
 
-[LinkedIn](www.linkedin.com/in/kevinrh)
-[Portofolio](https://kevinrh.vercel.app/)
+I'm a **Go & Rust developer** focused on backend systems, infrastructure, and DevOps.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinrst&theme=nord_dark)
+I enjoy building things that are **fast, reliable, and simple**, while exploring new technologies and improving my engineering skills along the way.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinrst&theme=nord_dark&exclude=css,html,dockerfile,vue" width="30%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinrst&theme=nord_dark&exclude=css,html,dockerfile,vue" width="30%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinrst&theme=nord_dark&exclude=css,html,dockerfile,vue" width="30%" />
+### 🔗 Find me around the web
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/kevinrh)
+* 🌐 [Portfolio](https://kevinrh.vercel.app/)
+
+## 🛠️ Languages & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=go,rust,linux,docker,kubernetes,git,github,postgres,redis,terraform,bash)](https://skillicons.dev)
+
+---
+
+## 🚀 What I'm into
+
+* 🦀 Building systems with **Rust** and developing backend services with **Go**
+* ☁️ Infrastructure, automation & **DevOps**
+* 🐧 Linux and developer tooling
